@@ -7,7 +7,7 @@ const Menu = [
   {
     id: 1,
     name: "Главная",
-    link: "/#",
+    link: "/",
   },
   {
     id: 2,
